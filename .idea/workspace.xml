@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="168776b9-00a7-40b8-ad58-b469e9693cd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -44,13 +45,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610620191114" />
-    <state x="126" y="78" width="1182" height="533" key="AVDManager" timestamp="1610641772561">
+    <state x="126" y="78" width="1182" height="533" key="AVDManager" timestamp="1610712083829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="126" y="78" width="1182" height="533" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1610641772561" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1610617836682">
+    <state x="126" y="78" width="1182" height="533" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1610712083829" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1610711434620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610617836682" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610711434620" />
   </component>
 </project>
